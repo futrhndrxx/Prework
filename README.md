@@ -4,14 +4,14 @@
 
 Submitted by: **Diego Martinez**
 
-Time spent: **8** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,25 +22,23 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-Replaced Segmented Control with Slider
+- [X] User can adjust tip through a slider interface, giving them more control on the value of their tip amount
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/FEs82uI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/gL8HJmfeL1.gif' title='Tip Calculator Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Recordit
 
 ## Notes
 
-
-This is the first time using Swift, so learning syntax was the first step I had. I believe my strong programming foundation that I acquired through programming courses at UCI helped me learn Swift much easier, however, I still have a long way to go. I enjoyed writing this program and I'm excited for the iOS course!
+Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Diego mMartinez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
